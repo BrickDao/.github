@@ -49,7 +49,7 @@ At its core, it primarily pools funds for grants, however there will also be opp
 
 ## Demo
 
-https://brickdao-three.vercel.app/#
+https://www.app.brickdao.co/
 
 
 ## Roadmap
@@ -70,5 +70,6 @@ https://brickdao-three.vercel.app/#
 ## Acknowledgements
 
  - [Superfluid](https://www.superfluid.finance/home)
+ - [TributeLabs](https://tributelabs.xyz/)
 
 

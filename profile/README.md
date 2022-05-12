@@ -54,12 +54,10 @@ https://www.app.brickdao.co/
 
 ## Roadmap
 
-- 
+- Build the DAO governance structures and policies.
+- Continue to build and scale.
+- Scale to light team and automated management
 
-- 
--
--
--
 
 
 ## License
